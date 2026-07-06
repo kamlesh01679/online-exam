@@ -1,0 +1,37 @@
+[
+    {
+        "student_id": 1,
+        "name": "Admin",
+        "email": "admin@gmail.com",
+        "password": "admin12",
+        "role": "admin"
+    },
+    {
+        "student_id": 2,
+        "name": "Rohit",
+        "email": "sharma@gmail.com",
+        "password": "4518",
+        "role": "student"
+    },
+    {
+        "student_id": 3,
+        "name": "Abhishek",
+        "email": "abhi@gmail.com",
+        "password": "4215",
+        "role": "student"
+    },
+    {
+        "student_id": 1,
+        "name": "kamlesh thakre",
+        "email": "kt01@gmail.com",
+        "password": "1234",
+        "role": "student"
+    },
+    {
+        "student_id": 1,
+        "name": "kamlesh ",
+        "email": "kt01gmail.com",
+        "password": "4321",
+        "role": "student"
+    }
+]
